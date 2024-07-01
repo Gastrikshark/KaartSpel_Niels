@@ -1,0 +1,15 @@
+C:\Users\Marlo\OneDrive\Bureaublad\2024 school\C#\kaartSpel\KaartenSpel\KaartenSpel\KaartSpel_Niels\bin\Debug\net8.0\KaartenSpel.exe
+C:\Users\Marlo\OneDrive\Bureaublad\2024 school\C#\kaartSpel\KaartenSpel\KaartenSpel\KaartSpel_Niels\bin\Debug\net8.0\KaartenSpel.deps.json
+C:\Users\Marlo\OneDrive\Bureaublad\2024 school\C#\kaartSpel\KaartenSpel\KaartenSpel\KaartSpel_Niels\bin\Debug\net8.0\KaartenSpel.runtimeconfig.json
+C:\Users\Marlo\OneDrive\Bureaublad\2024 school\C#\kaartSpel\KaartenSpel\KaartenSpel\KaartSpel_Niels\bin\Debug\net8.0\KaartenSpel.dll
+C:\Users\Marlo\OneDrive\Bureaublad\2024 school\C#\kaartSpel\KaartenSpel\KaartenSpel\KaartSpel_Niels\bin\Debug\net8.0\KaartenSpel.pdb
+C:\Users\Marlo\OneDrive\Bureaublad\2024 school\C#\kaartSpel\KaartenSpel\KaartenSpel\KaartSpel_Niels\obj\Debug\net8.0\KaartenSpel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marlo\OneDrive\Bureaublad\2024 school\C#\kaartSpel\KaartenSpel\KaartenSpel\KaartSpel_Niels\obj\Debug\net8.0\KaartenSpel.AssemblyInfoInputs.cache
+C:\Users\Marlo\OneDrive\Bureaublad\2024 school\C#\kaartSpel\KaartenSpel\KaartenSpel\KaartSpel_Niels\obj\Debug\net8.0\KaartenSpel.AssemblyInfo.cs
+C:\Users\Marlo\OneDrive\Bureaublad\2024 school\C#\kaartSpel\KaartenSpel\KaartenSpel\KaartSpel_Niels\obj\Debug\net8.0\KaartenSpel.csproj.CoreCompileInputs.cache
+C:\Users\Marlo\OneDrive\Bureaublad\2024 school\C#\kaartSpel\KaartenSpel\KaartenSpel\KaartSpel_Niels\obj\Debug\net8.0\KaartenSpel.sourcelink.json
+C:\Users\Marlo\OneDrive\Bureaublad\2024 school\C#\kaartSpel\KaartenSpel\KaartenSpel\KaartSpel_Niels\obj\Debug\net8.0\KaartenSpel.dll
+C:\Users\Marlo\OneDrive\Bureaublad\2024 school\C#\kaartSpel\KaartenSpel\KaartenSpel\KaartSpel_Niels\obj\Debug\net8.0\refint\KaartenSpel.dll
+C:\Users\Marlo\OneDrive\Bureaublad\2024 school\C#\kaartSpel\KaartenSpel\KaartenSpel\KaartSpel_Niels\obj\Debug\net8.0\KaartenSpel.pdb
+C:\Users\Marlo\OneDrive\Bureaublad\2024 school\C#\kaartSpel\KaartenSpel\KaartenSpel\KaartSpel_Niels\obj\Debug\net8.0\KaartenSpel.genruntimeconfig.cache
+C:\Users\Marlo\OneDrive\Bureaublad\2024 school\C#\kaartSpel\KaartenSpel\KaartenSpel\KaartSpel_Niels\obj\Debug\net8.0\ref\KaartenSpel.dll
