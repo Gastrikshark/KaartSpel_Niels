@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace KaartenSpel
 {
     public class Deck
-    {
+    {// onthoudt een lijst met kaarten
         public List<Card> Cards { get; }
 
         public Deck()
@@ -24,7 +24,7 @@ namespace KaartenSpel
         }
 
         public void Shuffle()
-        {
+        {// zet de kaarten in wilekeurige volgorde 
             Random rnd = new Random();
             for (int i = Cards.Count - 1; i > 0; i--)
             {
@@ -34,7 +34,7 @@ namespace KaartenSpel
         }
 
         public Card DrawCard()
-        {
+        {// trekt een kaart behalve als er geen kaart is  dan word die kaart ook gelijk uit het deck gehald
             if (Cards.Count == 0) throw new InvalidOperationException("No cards left in the deck");
             Card drawnCard = Cards[0];
             Cards.RemoveAt(0);
