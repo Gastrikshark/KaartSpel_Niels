@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace KaartenSpel
 {
     public class Card
-    {
+    {// houd bij welke type kaart het is en de soort kaart
         public Suits CardSuit { get; }
         public string Rank { get; }
 
